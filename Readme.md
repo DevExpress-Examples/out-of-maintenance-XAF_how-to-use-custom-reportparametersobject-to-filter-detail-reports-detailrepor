@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Detail.cs](./CS/WinSample.Module/Detail.cs) (VB: [Detail.vb](./VB/WinSample.Module/Detail.vb))
+* [Master.cs](./CS/WinSample.Module/Master.cs) (VB: [Master.vb](./VB/WinSample.Module/Master.vb))
+* [MyReportParametersObject.cs](./CS/WinSample.Module/MyReportParametersObject.cs) (VB: [MyReportParametersObject.vb](./VB/WinSample.Module/MyReportParametersObject.vb))
+* **[Script.txt](./CS/WinSample.Module/Script.txt) (VB: [Script.txt](./VB/WinSample.Module/Script.txt))**
+* [Updater.cs](./CS/WinSample.Module/Updater.cs) (VB: [Updater.vb](./VB/WinSample.Module/Updater.vb))
+<!-- default file list end -->
 # How to use custom ReportParametersObject to filter detail reports ( DetailReportBand )
 
 
